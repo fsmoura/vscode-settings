@@ -23,8 +23,5 @@
   "editor.fontWeight": 400,
   "editor.fontLigatures": true,
   "editor.tabSize": 2,
-  "editor.bracketPairColorization.enabled": true,
-  "workbench.editorAssociations": {
-    "*.mp4": "default"
-  }
+  "editor.bracketPairColorization.enabled": true
 }
