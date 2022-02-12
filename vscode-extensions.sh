@@ -2,7 +2,6 @@
 
 code --install-extension adpyke.codesnap
 code --install-extension clinyong.vscode-css-modules
-code --install-extension CoenraadS.bracket-pair-colorizer-2
 code --install-extension dracula-theme.theme-dracula
 code --install-extension EditorConfig.EditorConfig
 code --install-extension esbenp.prettier-vscode
