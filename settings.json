@@ -23,5 +23,6 @@
   "editor.fontWeight": 400,
   "editor.fontLigatures": true,
   "editor.tabSize": 2,
-  "editor.bracketPairColorization.enabled": true
+  "editor.bracketPairColorization.enabled": true,
+  "cSpell.language": "en,pt-BR"
 }
