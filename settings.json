@@ -15,6 +15,9 @@
   "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": true
+  },
   "workbench.sideBar.location": "left",
   "javascript.updateImportsOnFileMove.enabled": "always",
   "git.autofetch": true,
